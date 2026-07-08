@@ -63,12 +63,6 @@ Built as an end-to-end automation pipeline using **n8n**, this project combines 
              │
              ▼
 ┌─────────────────────────┐
-│  Save & Dedup to Sheet   │
-│  (Google Sheets)         │
-└────────────┬─────────────┘
-             │
-             ▼
-┌─────────────────────────┐
 │  Build Email HTML Cards  │
 │  (Code Node)             │
 └────────────┬─────────────┘
@@ -77,7 +71,13 @@ Built as an end-to-end automation pipeline using **n8n**, this project combines 
 ┌─────────────────────────┐
 │    Send Digest Email     │
 │    (Gmail)               │
-└───────────────────────────┘
+└────────────┬─────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│  Save & Dedup to Sheet   │
+│  (Google Sheets)         │
+└────────────┬─────────────
 ```
 
 ---
