@@ -139,7 +139,7 @@ Each internship listing is normalized into the following structure:
 
 | Workflow Canvas | Email Digest |
 |---|---|
-| _add screenshot here_ | _add screenshot here_ |
+| ![Workflow Canvas](workflow.png) | ![Email Digest](email-digest.png) |
 
 ---
 
@@ -168,5 +168,5 @@ This project is licensed under the MIT License — feel free to fork, modify, an
 
 ## 🙋 Author
 
-Built by [Your Name] — open to internship opportunities in **[Your Field]**.
-Feel free to connect on [LinkedIn](#) or reach out with questions!
+Built by Ganga.S — open to internship opportunities in **[Your Field]**.
+Feel free to connect on https://www.linkedin.com/in/ganga-s-01415b353?utm_source=share_via&utm_content=profile&utm_medium=member_android(#) or reach out with questions!
