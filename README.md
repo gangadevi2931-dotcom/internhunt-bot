@@ -139,7 +139,7 @@ Each internship listing is normalized into the following structure:
 
 | Workflow Canvas | Email Digest |
 |---|---|
-|![Workflow Canvas](workflow-canvas.png) | ![Email Digest](email-digest.png) |
+|![Workflow Canvas](AI%20Intern.png)  | ![Email Digest](Gmail%20-%20%F0%9F%8E%AF%20Daily%20Internship%20.jpeg) |
 
 ---
 
