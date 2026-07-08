@@ -122,7 +122,7 @@ Each internship listing is normalized into the following structure:
 ### Installation
 1. Clone this repository
    ```bash
-   git clone https://github.com/<your-username>/internhunt-bot.git
+   git clone https://github.com/gangadevi2931-dotcom/internhunt-bot.git
    ```
 2. Import `InternHunt-Bot.json` into your n8n instance:
    `Workflows → Import from File`
@@ -168,5 +168,6 @@ This project is licensed under the MIT License — feel free to fork, modify, an
 
 ## 🙋 Author
 
-Built by Ganga.S — open to internship opportunities in **[Your Field]**.
+Built by Ganga.S - Pre-final Year Student passionate about AI & Automation, 
+actively seeking internship opportunities in this space..
 Feel free to connect on https://www.linkedin.com/in/ganga-s-01415b353?utm_source=share_via&utm_content=profile&utm_medium=member_android(#) or reach out with questions!
